@@ -1,0 +1,26 @@
+{
+  "name": "MongoDbApi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dursunakcesme/MongoDbApi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dursunakcesme/MongoDbApi/issues"
+  },
+  "homepage": "https://github.com/dursunakcesme/MongoDbApi#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.11.7"
+  }
+}
